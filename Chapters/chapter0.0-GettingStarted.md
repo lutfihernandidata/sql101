@@ -13,14 +13,18 @@ SQL memudahkan kita untuk mengakses sejumlah item data yang tersimpan dalam sebu
 Relational Database itu sendiri merupakan kumpulan item data dengan hubungan yang telah ditentukan sebelumnya. Berbagai item ini disusun menjadi satu set tabel dengan kolom dan baris. 
 
 Gampangnya kalau diilustrasikan :\
-![Image of Relational Database](/Images/example-relational-db.jpg)\
+<p align="center">
+<img src="/Images/example-relational-db.jpg" width="500">
+</p>
+
 *Sumber : [stackexchange](https://stackoverflow.com/questions/39185915/relational-database-tables-for-food-products-specifying-different-categories)*
 
 Singkat saja, untuk membaca Relational Database seperti contoh gambar diatas. Garis yang menghubungkan antara tabel satu dan lainnya menggambarkan *Cardinality* dan *Ordinality*.\
 *Cardinality* merepresentasikan jumlah maksimum baris data dalam satu entitas(tabel) berhubungan dalam entitas(tabel) lain.\
  Sedangkan, *Ordinality* merepresentasikan jumlah minimum baris data dalam satu entitas (tabel) berhubungan dengan entitas(tabel) lain.
- 
-![Image of ERD-notation](/Images/erd-notation.png)
+ <p align="center">
+<img src="/Images/erd-notation.png" width="400">
+</p>
 
 Setelah item data diakses dan ditransformasikan sedemikian rupa menggunakan SQL data itu dapat disulap menjadi sebuah **Insights** yang dapat membuat banyak orang terkesima. 
 
