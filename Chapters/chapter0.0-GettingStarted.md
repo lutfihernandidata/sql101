@@ -16,9 +16,12 @@ Gampangnya kalau diilustrasikan :\
 ![Image of Relational Database](https://github.com/imfaridz/sql-101/blob/master/Images/example-relational-db.jpg?raw=true)\
 *Sumber : [stackexchange](https://stackoverflow.com/questions/39185915/relational-database-tables-for-food-products-specifying-different-categories)*
 
-Setelah item data diakses dan ditransformasikan sedemikian rupa menggunakan SQL data itu dapat disulap menjadi sebuah **Insights** \
-yang dapat membuat banyak orang terkesima. 
+Singkat saja, untuk membaca Relational Database seperti contoh gambar diatas. Garis yang menghubungkan antara tabel satu dan lainnya menggambarkan *Cardinality* dan *Ordinality*.\
+*Cardinality* merepresentasikan jumlah maksimum baris data dalam satu entitas(tabel) berhubungan dalam entitas(tabel) lain.\
+ Sedangkan, *Ordinality* merepresentasikan jumlah minimum baris data dalam satu entitas (tabel) berhubungan dengan entitas(tabel) lain.
+![Image of ERD-notation](https://github.com/imfaridz/sql-101/blob/master/Images/erd-notation.jpg?raw=true)\
 
+Setelah item data diakses dan ditransformasikan sedemikian rupa menggunakan SQL data itu dapat disulap menjadi sebuah **Insights** yang dapat membuat banyak orang terkesima. 
 
 [Lanjut ke Chapter 1.0](chapter1.0-SetupDatabase.md) 
 
