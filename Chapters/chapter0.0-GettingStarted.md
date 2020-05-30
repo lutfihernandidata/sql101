@@ -17,9 +17,8 @@ SQL memudahkan kita untuk mengakses sejumlah item data yang tersimpan dalam sebu
 Relational Database itu sendiri merupakan kumpulan item data dengan hubungan yang telah ditentukan sebelumnya. Berbagai item \
 ini disusun menjadi satu set tabel dengan kolom dan baris. 
 
-Gampangnya kalau diilustrasikan :
-
-![Image of Relational Database](https://github.com/imfaridz/sql-101/Images/example-relational-db.jpg)\
+Gampangnya kalau diilustrasikan :\
+![Image of Relational Database](https://github.com/imfaridz/sql-101/blob/master/Images/example-relational-db.jpg?raw=true)\
 *Sumber : [stackexchange](https://stackoverflow.com/questions/39185915/relational-database-tables-for-food-products-specifying-different-categories)*
 
 Setelah item data diakses dan ditransformasikan sedemikian rupa menggunakan SQL data itu dapat disulap menjadi sebuah **Insights** \
