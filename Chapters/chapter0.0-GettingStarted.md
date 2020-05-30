@@ -12,7 +12,7 @@ Maka dari itu Repository ini ditujukan untuk mengumpulkan semua sumber dalam 1 d
 SQL memudahkan kita untuk mengakses sejumlah item data yang tersimpan dalam sebuah *relational database*. \
 Relational Database itu sendiri merupakan kumpulan item data dengan hubungan yang telah ditentukan sebelumnya. Berbagai item ini disusun menjadi satu set tabel dengan kolom dan baris. 
 
-Gampangnya kalau diilustrasikan :\
+Gampangnya kalau diilustrasikan :
 <p align="center">
 <img src="/Images/example-relational-db.jpg" width="500">
 </p>
