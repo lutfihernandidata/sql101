@@ -20,14 +20,14 @@ Gampangnya kalau diilustrasikan :
 *Sumber : [stackexchange](https://stackoverflow.com/questions/39185915/relational-database-tables-for-food-products-specifying-different-categories)*
 
 Singkat saja, untuk membaca Relational Database seperti contoh gambar diatas. Garis yang menghubungkan antara tabel satu dan lainnya menggambarkan *Cardinality* dan *Ordinality*.\
-*Cardinality* merepresentasikan jumlah maksimum baris data dalam satu entitas(tabel) berhubungan dalam entitas(tabel) lain.\
- Sedangkan, *Ordinality* merepresentasikan jumlah minimum baris data dalam satu entitas (tabel) berhubungan dengan entitas(tabel) lain.
- <p align="center">
+*Cardinality* merepresentasikan jumlah maksimum item data dalam satu entitas(tabel) berhubungan dalam entitas(tabel) lain.\
+ Sedangkan, *Ordinality* merepresentasikan jumlah minimum item data dalam satu entitas (tabel) berhubungan dengan entitas(tabel) lain.
+<p align="center">
 <img src="/Images/erd-notation.png" width="400">
 </p>
 
-Setelah item data diakses dan ditransformasikan sedemikian rupa menggunakan SQL data itu dapat disulap menjadi sebuah **Insights** yang dapat membuat banyak orang terkesima. 
+Setelah item data diakses dan ditransformasikan sedemikian rupa menggunakan SQL, data itu dapat disulap menjadi sebuah **Insights** yang dapat membuat banyak orang terkesima. 
 
-[Lanjut ke Chapter 1.0](chapter1.0-SetupDatabase.md) 
+[Lanjut ke Chapter 1.0 - Setup Database](chapter1.0-SetupDatabase.md) 
 
 
