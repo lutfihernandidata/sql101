@@ -5,10 +5,17 @@ Mesin *open source* yang sangat populer saat ini digunakan untuk menyimpan data 
 <img src="/Images/mysql-img.jpg" width="250">
 </p> 
 
-## PostgreSQL
+## Instalasi PostgreSQL
 
-[PLACEHOLDER Step by Step setup Postgre di local]
+* Mac
 
-## MySQL
+* Windows
 
-[PLACEHOLDER Step by Step setup MySQL di local]
+## Instalasi MySQL
+
+* Mac
+
+* Windows
+
+
+
